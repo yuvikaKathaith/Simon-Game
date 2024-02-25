@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    font-family : 'Times New Roman', Times, serif;
+    background-color: #011F3F;
+    color: white;
+}
+.btn{
+    height:200px;
+    width:200px;
+    border-radius: 20%;
+    border: 8px solid  rgb(0,0,0);
+    margin: 1.5rem;
+}
+.btn-container{
+    display: flex; 
+    justify-content:center;
+    align-content: center;   
+}
+.yellow{
+    background-color: #ffff00;
+}
+.red{
+    background-color: #ff0000;
+}
+.blue{
+    background-color: #0000ff;
+}
+.green{
+    background-color: #008000;
+}
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color: rgb(92, 197, 92);
+}
